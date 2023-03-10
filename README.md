@@ -24,7 +24,7 @@ This is my personal NET playground
 
 ## Resources
 
-This sample would not have been possible without gaining inspiration from the following resources.  If you are on your own learning adventure please read the following blogs and documentation.
+This sample would not have been possible without gaining inspiration from the following resources.  If you are on your own learning adventure please read the following blogs and documentation. 
 
 - [README template copied from here](https://github.com/stphnwlsh/CleanMinimalApi/blob/main/README.md)
 
